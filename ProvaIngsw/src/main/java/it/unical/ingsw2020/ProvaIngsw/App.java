@@ -13,7 +13,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
         
         Random r  = new Random();
         
@@ -31,8 +30,6 @@ public class App
         //numeri = m.ordinaNumeri(numeri,'d');
         
         
-        for(int i = 0; i < numeri.size(); i++) {
-        	System.out.println(numeri.get(i));
-        }
+       
     }
 }
